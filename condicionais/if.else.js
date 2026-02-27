@@ -2,7 +2,7 @@
  // >, <, >=, !=
  // ||, &&]
 
- let nome = "Julius"
+ let nome = "Juliuss"
  let idade =34
 
 

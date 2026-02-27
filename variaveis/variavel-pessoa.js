@@ -1,6 +1,6 @@
 // var, let, const
 //valores constantes e variáveis
-let nome = "Petter"
+let nome = "Petters"
 let sobrenome = "Van Helsing" 
 const cpf = "899.888.999-99"
 const rg = "101010"
