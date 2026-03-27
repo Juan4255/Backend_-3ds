@@ -1,6 +1,21 @@
 // Funções podem ou não receber parâmetros
 // São blocos reaproveitáveis
-//inicio
-// Funções podem ou não receber parâmetros
-// São blocos reaproveitáveis
-//inicio
+function dizOla(){
+    console.log("Olá")
+
+}
+function dizOlaPessoa(nome){
+   if(typeof nome !== "string"){
+    console.error("Por favor, digite um valor de texto!")
+   } else {
+    console.log(nome + " diz, olá!")
+   }
+    
+
+
+
+}
+dizOla()
+dizOlaPessoa("João Pedro")
+dizOlaPessoa("João Félix")
+dizOlaPessoa(1321)
